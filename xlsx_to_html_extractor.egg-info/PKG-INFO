@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: xlsx-to-html-extractor
+Version: 0.1.0
+Summary: A Python utility to convert Excel sheets to HTML files, with options to include formulas, grid labels, and cell titles.
+Home-page: https://github.com/markolofsen/xlsx-to-html-extractor
+Author: Mark
+Author-email: markolofsen@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: openpyxl
+Requires-Dist: pandas
+
 
 # xlsx-to-html-extractor
 
